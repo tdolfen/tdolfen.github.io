@@ -1,0 +1,7 @@
+|---------|
+|  TO DO  |
+|---------|
+
+Statische Website generieren aus PHP Snippets: wget -k -K  -E -r -l 10 -p -N -F -nH http://website.com/
+Source: https://stackoverflow.com/questions/66610/how-can-i-create-a-site-in-php-and-have-it-generate-a-static-version
+
